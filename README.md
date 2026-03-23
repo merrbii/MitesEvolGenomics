@@ -1,4 +1,4 @@
-<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/ee8eb8ea-15a6-48ad-a92d-e901ced59d2b" /># Population Genomics Pipeline for Seven Mite Species
+# Population Genomics Pipeline for Seven Mite Species
 
 This document describes the bioinformatics pipelines used to perform population genomic analyses on seven mite species using PacBio HiFi long reads. The species analyzed are:
 
