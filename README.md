@@ -788,7 +788,7 @@ for sp in Ass Hga Hls Hrs Hti Ppr Sms; do
 done
 ```
 
-> Continue downstream SFS visualization and analysis in R using [get_sfs_profiles.sh](https://github.com/hewm2008/PopLDdecay).
+> Continue downstream SFS visualization and analysis in R using [get_sfs_profiles.sh](src/get_sfs_profiles.sh).
 
 ---
 
